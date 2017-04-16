@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>HeapSorting</id>
+    <version>1.0.0</version>
+    <authors>Жанна Ваганова</authors>
+    <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
+    <projectUrl></projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Реализация алгоритма пирамидальной сортировки</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+</package>
