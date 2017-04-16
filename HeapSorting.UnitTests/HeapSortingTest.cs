@@ -6,7 +6,7 @@ namespace HeapSorting.UnitTests
     public sealed class HeapSortingTest
     {
         /// <summary>
-		/// Тест, проверяющий корректность работы сортировки
+        /// Тест, проверяющий корректность работы сортировки
         /// </summary>
         [TestMethod]
         public void Sort_DifferentValues_CorrectResult()
