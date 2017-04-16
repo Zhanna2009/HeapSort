@@ -8,7 +8,7 @@
     <projectUrl></projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Реализация алгоритма пирамидальной сортировки</description>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>https://github.com/Zhanna2009/HeapSort</releaseNotes>
     <copyright>Copyright 2017</copyright>
   </metadata>
 </package>
